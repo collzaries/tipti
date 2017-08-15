@@ -1,0 +1,28 @@
+.bg-top-img {
+    z-index: 0;
+    position: absolute;
+    padding: 84px 100% 10% 0%;
+    background-color: antiquewhite;
+}
+.nav-top {
+    z-index:1;
+    position:absolute;
+    background-color:gold;
+    margin-top: 1%;
+    opacity:0.8;
+}
+.logo {
+    background-color:green;
+}
+.ship-address {
+    background-color: brown;
+}
+.menu {
+    background-color: hotpink;
+}
+.my-car-top {
+    background-color: darkcyan;
+}
+.user-top {
+    background-color: darkgoldenrod;
+}
